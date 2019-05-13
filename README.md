@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Xylophone
 
 ## Our Goal
@@ -21,7 +18,3 @@ You will be making your first musical instrument! Musical apps are so popular on
 * Code refactoring.
 * Basic debugging for array index out of range errors.
 
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
